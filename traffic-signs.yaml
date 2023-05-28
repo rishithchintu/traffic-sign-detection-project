@@ -1,0 +1,9 @@
+# Dataset Path
+path: /content/gdrive/MyDrive/traffic-sign-detection/traffic-signs-dataset
+
+train: /content/gdrive/MyDrive/traffic-sign-detection/traffic-signs-dataset/train
+val: /content/gdrive/MyDrive/traffic-sign-detection/traffic-signs-dataset/val
+test: /content/gdrive/MyDrive/traffic-sign-detection/traffic-signs-dataset/test
+
+# Class Names
+names: [prohibitory, danger, mandatory, other]
