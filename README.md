@@ -1,4 +1,13 @@
-# traffic-sign-detection-project![sign1](https://github.com/rishithchintu/traffic-sign-detection-project/assets/75387341/b6364fa8-7dcd-4cf5-b155-b8948818b192)
+# Traffic sign detection project
+
+👉These are the predictions of my trained yolo model.
+
+👉You can download the model here: https://drive.google.com/file/d/1YUCCJq1ORQVDwHYKrNlxl2fsOWdQg5rY/view?usp=share_link
+
+👉Dataset used: https://drive.google.com/drive/folders/1LHZXy0TpU7yCfm7gmyrDR3UHAhAEQ3vP?usp=share_link
+
+
+![sign1](https://github.com/rishithchintu/traffic-sign-detection-project/assets/75387341/b6364fa8-7dcd-4cf5-b155-b8948818b192)
 ![sign2](https://github.com/rishithchintu/traffic-sign-detection-project/assets/75387341/15d317aa-d4a0-47c0-891f-7585a2c76aa2)
 ![sign3](https://github.com/rishithchintu/traffic-sign-detection-project/assets/75387341/413ef2ba-5acd-408b-a0ca-acbfed6016dd)
 
